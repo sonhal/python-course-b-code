@@ -1,1 +1,2 @@
-# python-course-b-code
+# Python course b code
+19 - 27.march
